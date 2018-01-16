@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NBP-final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NBP_final_jar</output-path>
+    <root id="archive" name="NBP-final.jar">
+      <element id="module-output" name="NBP-final" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libs/java-getopt-1.0.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libs/javax.json-api-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libs/javax.json-1.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
